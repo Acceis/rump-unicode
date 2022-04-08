@@ -24,4 +24,5 @@
 **Author**:
 
 - Alexandre ZANNI aka noraj
+- Penetration Testing Engineer at [ACCEIS](https://www.acceis.fr/)
 - Site web : https://pwn.by/noraj/
