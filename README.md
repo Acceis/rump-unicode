@@ -18,7 +18,7 @@
 - Titre : Attaques Unicode
 - Format : Rump (5 minutes)
 - Présenté à : BreizhCTF 2k22, Rennes, France
-- Date: 01/04/2022
+- Date : 01/04/2022
 - Créé avec [Marp](https://marp.app/)
 
 **Auteur** :
