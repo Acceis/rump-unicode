@@ -11,7 +11,7 @@
 
 [![](https://img.shields.io/badge/pdf-offline-red)](#TODO)
 [![](https://img.shields.io/badge/html-online-green)](#TODO)
-[![](https://img.shields.io/badge/markdown-source-blue)](slides.md)
+[![](https://img.shields.io/badge/markdown-source-blue)](docs/slides.md)
 
 **Presentation**:
 
