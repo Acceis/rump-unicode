@@ -9,8 +9,8 @@
 
 **Download / view**:
 
-[![](https://img.shields.io/badge/pdf-offline-red)](#TODO)
-[![](https://img.shields.io/badge/html-online-green)](#TODO)
+[![](https://img.shields.io/badge/pdf-offline-red)](https://github.com/Acceis/rump-unicode/releases/download/1.0.0/slides.pdf)
+[![](https://img.shields.io/badge/html-online-green)](https://acceis.github.io/rump-unicode/)
 [![](https://img.shields.io/badge/markdown-source-blue)](docs/slides.md)
 
 **Presentation**:
